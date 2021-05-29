@@ -202,7 +202,7 @@ MonoBehaviour:
   m_text: GAME OVER
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -376,13 +376,13 @@ MonoBehaviour:
   m_text: Make an accusation?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4279243007
+    rgba: 4282594559
   m_fontColor: {r: 1, g: 0.20392157, b: 0.2627451, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -1289,7 +1289,7 @@ MonoBehaviour:
   m_text: You Win!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4140,13 +4140,13 @@ MonoBehaviour:
   m_text: 'Game ID: '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4283415517
   m_fontColor: {r: 0.8666667, g: 0.73333335, b: 0.30980393, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -6478,13 +6478,13 @@ MonoBehaviour:
   m_text: You Lose
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278780145
+    rgba: 4282594559
   m_fontColor: {r: 1, g: 0.20392157, b: 0.2627451, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -8944,8 +8944,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Select a card to disprove:'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -9008,7 +9008,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: -1353.335, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &602395890
