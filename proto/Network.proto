@@ -1,0 +1,123 @@
+syntax = "proto3";
+
+// CM_001
+message CreateGameRequest {
+  int32 playerID = 1;
+  string name = 2;
+}
+
+// CM_002
+message ConnectRequest {
+  int32 playerID = 1;
+  string name = 2;
+  int32 gameID = 3;
+}
+
+// CM_003
+message StartGameRequest {
+  int32 playerID = 1;
+  int32 gameID = 2;
+}
+
+// CM_004
+message Move {
+  int32 playerID = 1;
+  int32 location = 2;
+  int32 suspect = 3;
+  int32 weapon = 4;
+}
+
+// CM_005
+message DisproveRequest {
+  int32 playerID = 1;
+  int32 gameID = 2;
+  int32 card = 3;
+  int32 disprovingCharacter = 4;
+}
+
+// CM_006
+message HistoryRequest {
+  int32 playerID = 1;
+  int32 gameID = 2;
+}
+
+message PlayerCharacter {
+  int32 playerID = 1;
+  int32 character = 2;
+  string name = 3;
+}
+
+// SM_001A
+message InitiateGame {
+  repeated int32 cards = 1;
+  repeated PlayerCharacter characters = 2;
+}
+
+// SM_001B
+message PromptToDisprove {
+  repeated int32 cards = 1;
+}
+
+// SM_001C
+message PlayerTurn {
+  int32 playerID = 1;
+  int32 room = 2;
+  int32 suspect = 3;
+  int32 weapon = 4;
+  int32 disprovingPlayer = 5;
+  int32 location = 6;
+}
+
+// SM_001
+message GameUpdate {
+  int32 gameID = 1;
+  int32 playerID = 2;
+  int32 number = 3;
+  enum Type {
+    INITIATE = 0;
+    PROMPT = 1;
+    TURN = 2;
+    CONNECT = 3;
+    NEXTTURN = 4;
+    DISPROVE = 5;
+  }
+  Type type = 4;
+  InitiateGame initiate = 5;
+  PromptToDisprove prompt = 6;
+  PlayerTurn turn = 7;
+  int32 disprove = 8;
+}
+
+message GameHistory {
+  repeated GameUpdate updates = 1;
+}
+
+message Acknowledgement {
+  bool success = 1;
+  string message = 2;
+}
+
+message Accusation {
+  int32 playerId = 1;
+  bool isAccusing = 2;
+  Move accusing = 3;
+}
+
+message AccusationResponse {
+  bool correct = 1;
+}
+
+message DisconnectRequest {
+  int32 playerId = 1;
+}
+
+service NetworkService {
+  rpc createGame (CreateGameRequest) returns (stream GameUpdate);
+  rpc connectToGame (ConnectRequest) returns (stream GameUpdate);
+  rpc startGame (StartGameRequest) returns (Acknowledgement);
+  rpc submitMove (Move) returns (Acknowledgement);
+  rpc disprove (DisproveRequest) returns (Acknowledgement);
+  rpc requestHistory (HistoryRequest) returns (GameHistory);
+  rpc accuse (Accusation) returns (AccusationResponse);
+  rpc disconnect(DisconnectRequest) returns (Acknowledgement);
+}

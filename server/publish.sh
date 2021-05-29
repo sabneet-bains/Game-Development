@@ -1,0 +1,1 @@
+scp -prq ../server/ clueless.ideologyhole.com:/opt/clueless-server
