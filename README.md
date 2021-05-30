@@ -8,7 +8,7 @@ A repository of 3D Unity version of the popular board game Clue® for academic p
 
 ## Requirements
 
-[Unity 2019.4.19f1](https://unity3d.com/unity/whats-new/2019.4.19)
+[Unity 2021.1.6f1](https://unity3d.com/unity/whats-new/2021.1.6)
 
 ## Build Tested
 
