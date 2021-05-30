@@ -3089,13 +3089,13 @@ MonoBehaviour:
   m_text: Conservatory
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 3707764735
   m_fontColor: {r: 1, g: 1, b: 1, a: 0.8627451}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -11221,13 +11221,13 @@ MonoBehaviour:
   m_text: Billiard Room
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 3707764735
   m_fontColor: {r: 1, g: 1, b: 1, a: 0.8627451}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -11795,13 +11795,13 @@ MonoBehaviour:
   m_text: Study
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 3707764735
   m_fontColor: {r: 1, g: 1, b: 1, a: 0.8627451}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -14753,13 +14753,13 @@ MonoBehaviour:
 '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 3707764735
   m_fontColor: {r: 1, g: 1, b: 1, a: 0.8627451}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -17762,13 +17762,13 @@ MonoBehaviour:
   m_text: Lounge
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 3707764735
   m_fontColor: {r: 1, g: 1, b: 1, a: 0.8627451}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -19732,13 +19732,13 @@ MonoBehaviour:
   m_text: Dining Room
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 3707764735
   m_fontColor: {r: 1, g: 1, b: 1, a: 0.8627451}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -19927,13 +19927,13 @@ MonoBehaviour:
   m_text: Hall
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 3707764735
   m_fontColor: {r: 1, g: 1, b: 1, a: 0.8627451}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -23134,13 +23134,13 @@ MonoBehaviour:
   m_text: Ballroom
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 3707764735
   m_fontColor: {r: 1, g: 1, b: 1, a: 0.8627451}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -25326,13 +25326,13 @@ MonoBehaviour:
   m_text: Kitchen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8442982650362669403, guid: 0edead98a073dfa44baa3cfddb4b9876, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 3707764735
   m_fontColor: {r: 1, g: 1, b: 1, a: 0.8627451}
   m_enableVertexGradient: 0
   m_colorMode: 3
