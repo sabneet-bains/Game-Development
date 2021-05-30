@@ -1,4 +1,4 @@
-# Clueless - Starter README
+# Clueless - README
 
 A repository of Unity-based  Clue-Less Game for academic purposes!
 
