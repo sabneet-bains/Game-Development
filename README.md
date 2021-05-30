@@ -1,6 +1,6 @@
 # Clueless
 
-A repository of 3D Unity version of the popular board game Clue®e for academic purposes!
+A repository of 3D Unity version of the popular board game Clue® for academic purposes!
 
 <img src="https://github.com/sabneet95/Game-Development/blob/main/Game_Logo.png" width="300" height="300">
 
