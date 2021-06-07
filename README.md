@@ -29,7 +29,7 @@ Visual Studio Code
 
 2)  Game away!
 
-<img src="https://github.com/sabneet95/Game-Development/blob/main/Game_Title_Screen.png" width="768" height="432">
+<img src="https://github.com/sabneet95/Game-Development/blob/main/Game_Title_Screen.png" width="960" height="540">
 
 ## Contributing
 
