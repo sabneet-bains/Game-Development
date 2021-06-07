@@ -27,9 +27,13 @@ Visual Studio Code
 
 1)	Open the project in **Unity** > and install any required extensions
 
-2)  Game away!
 
 <img src="https://github.com/sabneet95/Game-Development/blob/main/game_title.gif" width="853.3" height="480">
+
+
+2)  Game away!
+
+
 <img src="https://github.com/sabneet95/Game-Development/blob/main/gameboard.gif" width="853.3" height="480">
 
 ## Contributing
