@@ -25,9 +25,11 @@ Visual Studio Code
 
 ## Usage
 
-1)	Open the project in **Visual Studio Code** > and install any required extensions
+1)	Open the project in **Unity** > and install any required extensions
 
 2)  Game away!
+
+<img src="https://github.com/sabneet95/Game-Development/blob/main/Game_Title_Screen.png" width="900" height="900">
 
 ## Contributing
 
