@@ -6,12 +6,19 @@ A repository of original 3-D video games.
 
 ## Requirements
 
-[MATLAB R2022a](https://www.mathworks.com/products/matlab.html)
+[Python 3.9.1 (64-bit) or above](https://www.python.org/downloads/)
+
+[VPython 7](https://vpython.org/presentation2018/install.html)
 
 ## Build Tested
 
-MATLAB
-* Version: R2022a Update 5 (9.12.0.2039608)
+Visual Studio Code
+* Version: 1.52.1 (system setup)
+* Commit: ea3859d4ba2f3e577a159bc91e3074c5d85c0523
+* Electron: 9.3.5
+* Chrome: 83.0.4103.122
+* Node.js: 12.14.1
+* V8: 8.3.110.13-electron.0
 * OS: Windows_NT x64 10.0.19042
 * Memory: 1981M
 * Cores: 8
