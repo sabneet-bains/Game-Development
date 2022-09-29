@@ -2,7 +2,7 @@
 
 A repository of original 3-D video games and simulations.
 
-<img src="https://github.com/sabneet95/Machine-Learning/blob/master/brain.png" width="500" height="400">
+<img src="https://github.com/sabneet95/Game-Development/blob/main/Clue/gameboard.gif" width="853.3" height="480">
 
 ## Requirements
 
