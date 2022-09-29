@@ -2,7 +2,7 @@
 
 A repository of 3D Unity version of the popular board game Clue® for academic purposes!
 
-<img src="https://github.com/sabneet95/Game-Development/blob/main/Game_Logo.png" width="300" height="300">
+<img src="https://github.com/sabneet95/Game-Development/blob/main/Clue/Game_Logo.png" width="300" height="300">
 
 → `Domain-specific code! Will not work on its own but can be modified for other projects.`
 
@@ -28,13 +28,13 @@ Visual Studio Code
 1)	Open the project in **Unity** > and install any required extensions
 
 
-<img src="https://github.com/sabneet95/Game-Development/blob/main/game_title.gif" width="853.3" height="480">
+<img src="https://github.com/sabneet95/Game-Development/blob/main/Clue/game_title.gif" width="853.3" height="480">
 
 
 2)  Game away!
 
 
-<img src="https://github.com/sabneet95/Game-Development/blob/main/gameboard.gif" width="853.3" height="480">
+<img src="https://github.com/sabneet95/Game-Development/blob/main/Clue/gameboard.gif" width="853.3" height="480">
 
 ## Contributing
 
