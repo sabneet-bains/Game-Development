@@ -2,7 +2,7 @@
 
 Space Ball is a Python-based graphical physics simulation of planetary motion and a somewhat engaging basketball game.
 
-![](https://github.com/sabneet95/Game-Development/blob/main/Space/Space_Ball.png)
+![](https://github.com/sabneet95/Game-Development/blob/main/Space/Space_Ball.gif)
 
 → `In a transition from VPython 6 to 7, some of the game logic is finicky – may be fixed at a later stage.`
 
