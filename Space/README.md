@@ -1,6 +1,7 @@
-# Space Ball - A basketball game?
+# Space Ball - A planetary basketball game?
 
-Space Ball is a Python-based graphical physics simulation of planetary motion and a somewhat engaging basketball game.
+Space Ball is a Python-based simulation game that combines planetary motion and basketball. The game uses VPython 7 for its graphical physics simulation.
+
 
 ![](https://github.com/sabneet95/Game-Development/blob/main/Space/Space_Ball.gif)
 
@@ -8,7 +9,7 @@ Space Ball is a Python-based graphical physics simulation of planetary motion an
 
 ## Requirements
 
-[Python 3.9.1 (64-bit) or above](https://www.python.org/downloads/)
+[Python 3.9.1 or later (64-bit)](https://www.python.org/downloads/)
 
 [VPython 7](https://vpython.org/presentation2018/install.html)
 
@@ -28,7 +29,7 @@ Visual Studio Code
 Microsoft Edge
 * Version 89.0.767.0 (Official build) dev (64-bit)
 
-## Usage
+## How to Play
 
 1)	Open the project in **Visual Studio Code** > _run_ the Game_Engine.py
 
@@ -61,16 +62,18 @@ scene.lights = []
 
 ![](https://github.com/sabneet95/Game-Development/blob/main/Space/Space_Ball_Intro.png)
 
-3)	Enjoy the simulation by providing game parameters like the ball's initial angle, velocity, and even crazy gravity!
+3)	Provide game parameters such as the ball's initial angle, velocity, and even absurd gravity, and start playing!
 
 ![](https://github.com/sabneet95/Game-Development/blob/main/Space/Space_Ball2.png)
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+If you would like to contribute to this repository, please follow these guidelines:
 
-Please make sure to update tests as appropriate.
-
+* Create an issue to discuss the changes you would like to make
+* Fork the repository and make the changes
+* Submit a pull request for review and merging
+* Please make sure to update tests as appropriate
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This repository is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
