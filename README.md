@@ -1,12 +1,12 @@
-# Game Development
+# Game Development Repository
 
-A repository of original 3-D video games and simulations.
+This repository contains a collection of unique 3D video games and simulations developed in Python or Unity.
 
 <img src="https://github.com/sabneet95/Game-Development/blob/main/Clue/gameboard.gif" width="853.3" height="480">
 
 ## Requirements
 
-[Python 3.9.1 (64-bit) or above](https://www.python.org/downloads/)
+[Python 3.9.1 or later (64-bit)](https://www.python.org/downloads/)
 
 [VPython 7](https://vpython.org/presentation2018/install.html)
 
@@ -26,10 +26,7 @@ Visual Studio Code
 * Cores: 8
 
 ## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Your contributions are welcome! If you would like to make significant changes, please create an issue to discuss your plans before making a pull request. Be sure to update tests as necessary.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This repository is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
