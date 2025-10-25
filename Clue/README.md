@@ -6,6 +6,7 @@
 [![3D Game Engine](https://img.shields.io/badge/Engine-3D_Simulation-lightgrey?logo=unrealengine&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+<br>
 
 **Clueless** is a Unity-based re-imagining of the classic board game *Clue®*, built as a 3D networked simulation for academic and research exploration.  
 
@@ -13,7 +14,7 @@ The project integrates **C# game logic**, **Python/MySQL networking**, and **Uni
 
 <img src="https://github.com/sabneet95/Game-Development/blob/main/Clue/Game_Logo.png" width="300" height="300">
 
-> 🧠 *Note: This repository contains domain-specific Unity code developed for a course environment.  
+> *Note: This repository contains domain-specific Unity code developed for a course environment.  
 It may not run standalone, but can be adapted for similar systems or teaching projects.*
 
 
