@@ -1,4 +1,11 @@
 # 🪐 Space Ball — A Planetary Basketball Game
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
+[![VPython](https://img.shields.io/badge/VPython-7.0-red?logo=visualstudio&logoColor=white)](https://vpython.org/)
+[![Physics Simulation](https://img.shields.io/badge/Engine-Physics_Simulation-lightgrey?logo=atom&logoColor=white)](#)
+[![3D Visualization](https://img.shields.io/badge/3D-Visualization-orange?logo=googleearth&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+<br>
 
 **Space Ball** is a Python-based simulation game that blends *orbital mechanics* and *basketball physics*.  
 Built with **VPython 7**, it visualizes gravitational motion and interactive gameplay in a real-time 3D environment.
@@ -7,14 +14,14 @@ Built with **VPython 7**, it visualizes gravitational motion and interactive gam
 
 > ⚙️ *Some gameplay logic requires tuning after migration from VPython 6 → 7. Future updates may address compatibility and stability.*
 
----
+
 
 ## 📦 Requirements
 
 - [Python 3.9.1 or later (64-bit)](https://www.python.org/downloads/)
 - [VPython 7](https://vpython.org/presentation2018/install.html)
 
----
+
 
 ## 💻 Development Environment
 
@@ -33,11 +40,11 @@ Built with **VPython 7**, it visualizes gravitational motion and interactive gam
 
 </details>
 
----
+
 
 ## 🪐 How to Play
 
-1️⃣ Open the project in **Visual Studio Code** and run `Game_Engine.py`.
+#### **1.** Open the project in **Visual Studio Code** and run `Game_Engine.py`.
 
 ```python
 from vpython import *
@@ -59,13 +66,13 @@ scene.lights = []
 # ... gameplay logic ...
 ```
 
-2️⃣ A browser window will open automatically:  
+#### **2.** A browser window will open automatically:  
 ![](https://github.com/sabneet95/Game-Development/blob/main/Space/Space_Ball_Intro.png)
 
-3️⃣ Enter launch parameters (angle, velocity, or even *custom gravity*) — then shoot for orbit!  
+#### **3.** Enter launch parameters (angle, velocity, or even *custom gravity*) — then shoot for orbit!  
 ![](https://github.com/sabneet95/Game-Development/blob/main/Space/Space_Ball2.png)
 
----
+
 
 ## 🔬 Tech Highlights
 
@@ -74,7 +81,6 @@ scene.lights = []
 - **Visualization →** Interactive 3-D scene with dynamic camera control and lighting.  
 - **Extensibility →** Easily tune constants, masses, and interaction rules for new modes.
 
----
 
 ## 🤝 Contributing
 
@@ -87,17 +93,14 @@ Physicists, coders, and simulation enthusiasts are welcome!
 
 > 💡 Contributors curious about **physics-based gameplay**, **VPython optimization**, or **simulation R&D** are especially encouraged to join.
 
----
 
 ## 🧠 Author
 
 **Sabneet Bains** — *Quantum × AI × Scientific Computing*  
 [LinkedIn](https://www.linkedin.com/in/sabneet-bains/) • [GitHub](https://github.com/sabneet-bains)
 
----
 
 ## 📄 License
 
 This repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
----
