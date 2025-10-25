@@ -7,7 +7,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-
 **Clueless** is a Unity-based re-imagining of the classic board game *Clue®*, built as a 3D networked simulation for academic and research exploration.  
 
 The project integrates **C# game logic**, **Python/MySQL networking**, and **Unity 3D visualization** to demonstrate systems-level interaction in a distributed game environment.
@@ -18,11 +17,9 @@ The project integrates **C# game logic**, **Python/MySQL networking**, and **Uni
 It may not run standalone, but can be adapted for similar systems or teaching projects.*
 
 
-
 ## 📦 Requirements
 
 - [Unity 2021.1.6f1](https://unity3d.com/unity/whats-new/2021.1.6)
-
 
 
 ## 💻 Development Environment
@@ -45,7 +42,6 @@ It may not run standalone, but can be adapted for similar systems or teaching pr
 </details>
 
 
-
 ## 🕹️ How to Play
 
 **This project reimagines Clue® as a 3D Unity networked simulation with a MySQL backend.**
@@ -59,14 +55,12 @@ It may not run standalone, but can be adapted for similar systems or teaching pr
 <img src="https://github.com/sabneet95/Game-Development/blob/main/Clue/gameboard.gif" width="853.3" height="480">
 
 
-
 ## 🔬 Project Highlights
 
 - **3D Game Engine →** Developed in Unity 2021 with optimized C# gameplay scripts.  
 - **Networking Layer →** Python + MySQL backend enabling multiplayer coordination.  
 - **Systems Integration →** Hybrid Unity–Python architecture with database-driven state updates.  
 - **Research Context →** Built for game AI / simulation systems coursework under agile iteration.  
-
 
 
 ## 🧪 Testing Setup
@@ -104,7 +98,6 @@ It may not run standalone, but can be adapted for similar systems or teaching pr
 </details>
 
 
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -117,16 +110,13 @@ Contributions are welcome!
 > 💡 Contributors interested in **Unity simulation**, **networked gameplay**, or **Python–MySQL integration** are especially encouraged to collaborate.
 
 
-
 ## 🧠 Author
 
 **Sabneet Bains** — *Quantum × AI × Scientific Computing*  
 [LinkedIn](https://www.linkedin.com/in/sabneet-bains/) • [GitHub](https://github.com/sabneet-bains)
 
 
-
 ## 📄 License
 
 This repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
 
