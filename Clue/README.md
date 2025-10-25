@@ -6,7 +6,7 @@
 [![3D Game Engine](https://img.shields.io/badge/Engine-3D_Simulation-lightgrey?logo=unrealengine&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
----
+
 
 **Clueless** is a Unity-based re-imagining of the classic board game *Clue®*, built as a 3D networked simulation for academic and research exploration.  
 
@@ -17,13 +17,13 @@ The project integrates **C# game logic**, **Python/MySQL networking**, and **Uni
 > 🧠 *Note: This repository contains domain-specific Unity code developed for a course environment.  
 It may not run standalone, but can be adapted for similar systems or teaching projects.*
 
----
+
 
 ## 📦 Requirements
 
 - [Unity 2021.1.6f1](https://unity3d.com/unity/whats-new/2021.1.6)
 
----
+
 
 ## 💻 Development Environment
 
@@ -44,21 +44,21 @@ It may not run standalone, but can be adapted for similar systems or teaching pr
 
 </details>
 
----
+
 
 ## 🕹️ How to Play
 
 **This project reimagines Clue® as a 3D Unity networked simulation with a MySQL backend.**
 
-1️⃣ Open the project in **Unity** and install any required extensions.  
+#### **1.** Open the project in **Unity** and install any required extensions.  
 
 <img src="https://github.com/sabneet95/Game-Development/blob/main/Clue/game_title.gif" width="853.3" height="480">
 
-2️⃣ Launch the game and explore!  
+#### **2.** Launch the game and explore!  
 
 <img src="https://github.com/sabneet95/Game-Development/blob/main/Clue/gameboard.gif" width="853.3" height="480">
 
----
+
 
 ## 🔬 Project Highlights
 
@@ -67,7 +67,7 @@ It may not run standalone, but can be adapted for similar systems or teaching pr
 - **Systems Integration →** Hybrid Unity–Python architecture with database-driven state updates.  
 - **Research Context →** Built for game AI / simulation systems coursework under agile iteration.  
 
----
+
 
 ## 🧪 Testing Setup
 
@@ -103,7 +103,7 @@ It may not run standalone, but can be adapted for similar systems or teaching pr
 
 </details>
 
----
+
 
 ## 🤝 Contributing
 
@@ -116,17 +116,17 @@ Contributions are welcome!
 
 > 💡 Contributors interested in **Unity simulation**, **networked gameplay**, or **Python–MySQL integration** are especially encouraged to collaborate.
 
----
+
 
 ## 🧠 Author
 
 **Sabneet Bains** — *Quantum × AI × Scientific Computing*  
 [LinkedIn](https://www.linkedin.com/in/sabneet-bains/) • [GitHub](https://github.com/sabneet-bains)
 
----
+
 
 ## 📄 License
 
 This repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
----
+
